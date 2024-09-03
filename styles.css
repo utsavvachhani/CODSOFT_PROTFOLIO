@@ -331,6 +331,7 @@ footer ul li a:hover {
 
   header {
     flex-direction: column;
+    position: absolute;
   }
 
   .card {
