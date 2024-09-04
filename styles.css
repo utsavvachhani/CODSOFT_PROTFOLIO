@@ -174,7 +174,7 @@ nav ul {
 }
 
 /* Projects Section */
-#projects {
+#projects,#Resume {
   padding: 5rem 2rem;
   text-align: center;
 }
